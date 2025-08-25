@@ -1,7 +1,20 @@
-Head
-.gitignore
-README.md
+
+# Editor
+# Node / JS
+# OS
+.DS_Store
+.arch-internal-preview.css
 .architect
+.env
+.env.*.local
+.env.local
+.gitignore
+.idea/
+.vscode/
+>>>>>>> e104263 (save workspace + chat transcript)
+Head
+README.md
+Thumbs.db
 bootstrap.css
 bootstrap.js
 bootstrap.json
@@ -9,28 +22,12 @@ bootstrap.jsonp
 build/
 classic.json
 classic.jsonp
+dist/
 ext/
 modern.json
 modern.jsonp
-resources/sass/.sass-cache/
-resources/.arch-internal-preview.css
-.arch-internal-preview.css
-
-# Node / JS
 node_modules/
-dist/
-build/
-.env
-.env.local
-.env.*.local
 npm-debug.log
+resources/.arch-internal-preview.css
+resources/sass/.sass-cache/
 yarn-error.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
-.idea/
->>>>>>> e104263 (save workspace + chat transcript)
