@@ -1,3 +1,6 @@
+Head
+.gitignore
+README.md
 .architect
 bootstrap.css
 bootstrap.js
@@ -12,3 +15,22 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+
+# Node / JS
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+npm-debug.log
+yarn-error.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+>>>>>>> e104263 (save workspace + chat transcript)
